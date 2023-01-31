@@ -6,15 +6,17 @@ Project aims to create parallax website.
 ```
 login-form
 |
-|----readme.md           
+|----readme.md
+|----images 
 |----index.html  
 |----style.css
 ```
 ## Project-gif 
-![Uploading parallax-website.gif…]
+
 ## Project-link
 https://axel-ac.github.io/parallax-website/
 ### At the end of the project, following topics are to be covered;
+
 - HTML 
 
 - List Properties
