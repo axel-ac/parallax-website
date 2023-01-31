@@ -11,6 +11,6 @@ login-form
 |----style.css
 ```
 ## Project-gif 
-![login-form](file:///C:/Users/abdll/Downloads/parallax-website.gif)
+
 ## Project-link
 https://axel-ac.github.io/parallax-website/
