@@ -12,7 +12,7 @@ login-form
 |----style.css
 ```
 ## Project-gif 
-
+![parallax-website](https://user-images.githubusercontent.com/102467587/216028184-339615ca-91e6-4757-91dc-af4b39bca7d4.gif)
 ## Project-link
 https://axel-ac.github.io/parallax-website/
 ### At the end of the project, following topics are to be covered;
